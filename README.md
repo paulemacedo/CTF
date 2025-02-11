@@ -1,8 +1,9 @@
 # ![image](https://github.com/user-attachments/assets/b8b70f66-59fd-4417-957d-be53f6664969)
 
-  <a href="https://tryhackme.com/p/paulemacedo"><kbd> <br> TryHackMe Profile <br> </kbd></a>&ensp;&ensp;
-
-
+  <p align="center">
+    <a href="https://tryhackme.com/p/paulemacedo"><kbd> <br> TryHackMe Profile <br> </kbd></a>&ensp;&ensp;
+    <a href="https://app.hackthebox.com/profile/overview"><kbd> <br> Hack The Box Profile <br> </kbd></a>
+  </p>
 
 <!--
 ### My Lab
