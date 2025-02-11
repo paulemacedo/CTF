@@ -3,6 +3,7 @@
   <p align="center">
     <a href="https://tryhackme.com/p/paulemacedo"><kbd> <br> TryHackMe Profile <br> </kbd></a>&ensp;&ensp;
     <a href="https://app.hackthebox.com/profile/overview"><kbd> <br> Hack The Box Profile <br> </kbd></a>
+    <a href="https://app.letsdefend.io/user/paulemacedo"><kbd> <br> Let's Defend Profile <br> </kbd></a>
   </p>
 
 <!--
